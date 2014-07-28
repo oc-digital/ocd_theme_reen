@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = OcdThemeReen::VERSION
   s.authors     = ["Jeremy Ward"]
   s.email       = ["jeremy@ocdigital.com"]
-  s.homepage    = "oc-digital.co"
+  s.homepage    = "http://oc-digital.co"
   s.summary     = "OC Digital Theme: Reen"
   s.description = "OC Digital Theme: Reen"
   s.license     = "MIT"
